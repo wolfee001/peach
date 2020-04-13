@@ -1,0 +1,11 @@
+[requires]
+glad/0.1.33
+glfw/3.3.2@bincrafters/stable
+imgui/docking@wolfee/testing
+
+[options]
+glad:gl_profile=core
+glad:gl_version=4.1
+
+[generators]
+cmake
